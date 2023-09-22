@@ -1,0 +1,13 @@
+nav {
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+}
+
+.banana {
+    border: 2px solid yellow;
+}
+
+a {
+    margin: 1%;
+}
