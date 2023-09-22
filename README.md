@@ -9,7 +9,7 @@ npx create-react-app my-app --template @appacademy/simple --use-npm
 ```
 
 ## Available Scripts
-
+  
 In the project directory, you can run:
 
 ### `npm start`
